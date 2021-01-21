@@ -8,6 +8,9 @@
 </head>
 <body>
     <section>
+        <div class="circle">
+                
+        </div>
         <header>
             <a href="#"><img src="images/rbk_logo.png" alt="" class="logo"></a>
             <ul>
@@ -28,9 +31,9 @@
             </div>
         </div>
         <ul class="thumb">
-            <li><img src="images/thumb_rbk_gts3m.png" alt=""></li>
-            <li><img src="images/thumb_rbk_tengyun.png" alt=""></li>
-            <li><img src="images/thumb_rbk_gan.png" alt=""></li>
+            <li><img src="images/thumb_rbk_gts3m.png" onclick="imgSlider('images/rbk_gts3m.png'); changeCircleColor('red')"></li>
+            <li><img src="images/thumb_rbk_tengyun.png" onclick="imgSlider('images/rbk_tengyun.png'); changeCircleColor('blue')"></li>
+            <li><img src="images/thumb_rbk_gan.png" onclick="imgSlider('images/rbk_gan.png'); changeCircleColor('green')"></li>
         </ul>
         <ul class="sm">
             <li><a href="#"><img src="images/facebook.svg" alt=""></a></li>
@@ -38,5 +41,7 @@
             <li><a href="#"><img src="images/youtube(1).svg" alt=""></a></li>
         </ul>
     </section>
+
+    <script src="app.js"></script>
 </body>
 </html>

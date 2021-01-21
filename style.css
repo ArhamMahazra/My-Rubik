@@ -108,3 +108,25 @@ header ul li a {
 .thumb li img {
     max-width: 80px;
 }
+.sm {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.sm li{
+    list-style: none;
+}
+.sm img {
+    max-width: 40px;
+}
+.sm a {
+    display: inline-block;
+    margin: 5px 0px;
+    transform: scale(0.6);
+}
+    

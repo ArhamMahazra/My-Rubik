@@ -1,5 +1,5 @@
 # My-Rubik
-<h1>Simple and Clean Rubik's  Cube Website.<h1>
+<h1>Simple and Clean Rubik's  Cube Website.</h1>
 
 Inspiration and tutorial from Online Tutorials : <br>
 http://bit.ly/3aqIVtu

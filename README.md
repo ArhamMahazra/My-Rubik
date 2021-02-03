@@ -1,8 +1,11 @@
 # My-Rubik
-Simple and Clean Rubik's  Cube Website.
+<h1>Simple and Clean Rubik's  Cube Website.<h1>
 
 Inspiration and tutorial from Online Tutorials : <br>
-https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog
+http://bit.ly/3aqIVtu
 
-Starbucks Landing Page Website Design using Html CSS & Javascript | Step By Step Web Design Tutorial : <br>
-https://www.youtube.com/watch?v=91Q6RvKvd7o
+Starbucks Landing Page Website Design using Html CSS & Javascript : <br>
+https://bit.ly/3pKiVj4
+
+Responsive Video :
+https://bit.ly/3pLiYLp

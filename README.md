@@ -1,6 +1,9 @@
 # My-Rubik
 <h1>Simple and Clean Rubik's  Cube Website.</h1>
 
+
+Check it : https://arhammahazra.github.io/My-Rubik/
+
 Inspiration and tutorial from Online Tutorials : <br>
 http://bit.ly/3aqIVtu
 
